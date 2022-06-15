@@ -2,7 +2,11 @@ team : Panthers
 
 manger: Sebastian
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach: Raymond
+>>>>>>> 2850e72 (Edit Panthers)
 
 members:
 - Violet
